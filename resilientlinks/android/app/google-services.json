@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "464804066352",
+    "project_id": "resilienlink",
+    "storage_bucket": "resilienlink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464804066352:android:2513fd186a74783aed29f5",
+        "android_client_info": {
+          "package_name": "com.example.resilientlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464804066352-mnfrtrhs791gdnheu862onflmv0qb1eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resilientlink",
+            "certificate_hash": "5248542f0670230caebdc9a32302ed044b7b2bfc"
+          }
+        },
+        {
+          "client_id": "464804066352-v1c8g3g32jcts075nkbb83vuoj7jtqgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4-IHJ4FBs3fPho_sELtUCBjTQRaetnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464804066352-v1c8g3g32jcts075nkbb83vuoj7jtqgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464804066352:android:758569576673dd57ed29f5",
+        "android_client_info": {
+          "package_name": "com.example.resilientlinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464804066352-v1c8g3g32jcts075nkbb83vuoj7jtqgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4-IHJ4FBs3fPho_sELtUCBjTQRaetnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464804066352-v1c8g3g32jcts075nkbb83vuoj7jtqgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
